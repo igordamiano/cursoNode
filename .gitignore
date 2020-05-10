@@ -1,0 +1,5 @@
+# Arquivos e pastas que devem ser ignorados
+
+node_modules/
+file.txt
+file2.txt
